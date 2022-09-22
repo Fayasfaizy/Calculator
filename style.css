@@ -1,0 +1,32 @@
+.calc{
+    width: 400px;
+    height: 650px;
+    background: black;
+    margin-left: 500px;
+}
+#screen{
+    width: 303px;
+    height: 40px;
+    margin-left: 42px;
+    margin-top: 30px;
+    pointer-events: none;
+    border-radius: 150px;
+}
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background: bisque;
+    border-radius: 200px;
+}
+.head{
+    margin-left: 113px;
+    color: white;
+    padding-top: 50px;
+    font-style: italic;
+    
+}
+.h1{
+    width: 10px;
+}
